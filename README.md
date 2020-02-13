@@ -18,5 +18,5 @@ Run this image:
 
 ```console
 $ docker run --name el8-apache-php \
-	-d tglab/centos8-apache-php:latest
+	-d tglab/centos-apache-php:latest
 ```
